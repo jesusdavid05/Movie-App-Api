@@ -1,0 +1,23 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+}
+
+.head {
+  background-color: #014c73;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.head ul {
+  list-style: none;
+  display: flex;
+}
+
+.head ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
